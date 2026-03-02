@@ -1,7 +1,7 @@
 # Factorial Analysis of NDF in Corn Stalks: Effects of SO₂, Temperature, and Time
 
 ## 📌 Project Overview
-This project performs a comprehensive statistical analysis on the factors influencing the **Neutral Detergent Fiber (NDF)** content in corn stalks. NDF is a critical measure of cell wall content; higher values indicate more fibrous and less digestible material. The research aims to determine if sulphur dioxide ($SO_2$) levels, temperature, or exposure time—and their potential interactions—significantly impact plant digestibility.
+This project performs a comprehensive statistical analysis on the factors influencing the **Neutral Detergent Fiber (NDF)** content in corn stalks. NDF is a critical measure of cell wall content; higher values indicate more fibrous and less digestible material. The research aims to determine if sulphur dioxide ($SO_2$) levels, temperature, or exposure time and their potential interactions significantly impact plant digestibility.
 
 ## 🧪 Experimental Design & Methodology
 The study employed a **$2 \times 2 \times 3$ factorial design** with two replications per treatment cell.
